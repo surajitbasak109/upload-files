@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T20:27:09.560Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="EnudRkogeKP_GEFQ6gE_" version="16.4.3" type="github" pages="2"><diagram id="LxZ13z829-u4o6Yn5Hbp" name="09 - Redux">5VdNj5swEP01HCsFHAg5bkjaql+HRm3V08qFWXBrGGSGTbK/viYYCCFJU2k3idpT7Ddj2X7vzcRYLEjXbxTPk48YgbScUbS22NxyHHvkjPVPhWxqZOy5NRArEZmkDliKJ2hWGrQUERS9REKUJPI+GGKWQUg9jCuFq37aA8r+rjmPYQAsQy6H6DcRUVKjvjPp8Lcg4qTZ2famdSTlTbK5SZHwCFc7EFtYLFCIVI/SdQCyIq/hpV73+ki0PZiCjM5ZMH03e//d/1pEozC+DyacvjifXhl1HrkszYXNYWnTMACRJsRMUVGCMWZcLjp0prDMIqi2GelZl/MBMdegrcGfQLQx6vKSUEMJpdJEHzAjE3RGzdxsWc0LUvir5V8zN6tPWR3tKBsGKrBUIZygoHEVVzHQiTzWaqbNDpgCqY1ep0ByEo/9c3DjurjN64TRA6PNX+hkD3S6C0lgprFAASdUA91WiSBY5nx7+ZWuztOcmw1AEaxPczrkoFnQFK2pddZYf9VVju0ZLNmpmgZ7dtqcAW2fISrXFWubUBO1z5m+O/VpUlCIJ/6jtWJl3qKmrQpzKeJMj0NNESgNVAQK3T7uTCAVUbQtkhxFRtv7uTPLnVcKCCkDlFo6Ns8wg9boe2C/vHZrY19H/3l0HLt9HR33gI7+AR3HL6Wjd5Nt6kXbEjuzLbnXbEvsaFu6ejNitvfnZuRcshlN/z8Tu2ea2L+mid2BLnNR5JzC5AZsPJ7YN2Zje/in+s/72D/Tx/YRMS9jZP/gaycEVdyAkT12xuPwskYePqqXxGn4Krw8WZPp5cjS0+4jdBvb+ZRni98=</diagram><diagram id="sU6fqCLzuedO66m88KZ-" name="00 - Insurance Company">1VZdb9sgFP01Vp4mJWZJ3MfG6b60aeo6aVJfJmJuDBoGC+M66a/fxWDHqTdVUbZ0e4h9ORcwnHMuISJpsXtraMk/aQYyiqdsF5F1FMezaTLFl0P2HplfEQ/kRrDQ6QDciUfoRga0Fgyqo45Wa2lFeQxmWinI7BFGjdHNcbetlsdfLWkOI+Auo3KMfhPMco8m8fKAvwOR8+7Ls8WVzxS06xx2UnHKdDOAyE1EUqO19VGxS0E68npe1rdNtv58/SiTW53CzYfv/P6Vn+zNKUP6LRhQ9s9OHfupH6isA18fwU4qhFa1QKZRA4WP96qqDVUZYJzqoqRqHzix+47ohgsLdyXNXLtBM0VkxW0hsTXDcKuVDe5A9kI7jA4bfABjYfdEtmf2POuFQAeDLsAaXNo0zBKToF0wb9dsDk6YTwPGBy5YBIwG8+X9zAeCMQgcn8A3GfFdaimy89kUUqZaatOOJoxCss0Qr6zRP2CQWWQJbLaYuRTls3jM+ez1JTmfjzhP68ri5Mb5nOOB4t4UfxMvxiSKUzfpFh8bylph6i22FhLXutoYjHIXcVqWoKr2SHMPDoV/uZppoCVz3yfOU/hv6UWWz+tFFpfUaznSK5NUnE3gP1wiyUuXSPLbEnEr8CXgPsWFyvui8O4fV8WgFtKuDhQA68rkP6yJXwh02ZroblMDhb5y0Z5bxvErDn/QIznAFJWXQuFVJZ5+AVbvnAI+8UQCpNIes26gEo9003ZwrNPa6sqr4NJUilxhnCHj6BeycnoIvIBdh0QhGHODV6UWyrbMzFfRfP2kJpVWMCrHABpdKwYsLOClbNDLO7BBfzsc2mB+ug2webhJtrnBfZzc/AQ=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-24T22:37:01.112Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="GX6dV1ycUtLVPerVLviz" version="16.4.3" type="github" pages="2">
+  <diagram id="LxZ13z829-u4o6Yn5Hbp" name="09 - Redux">
+    <mxGraphModel dx="1024" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=0;strokeWidth=2;" parent="1" source="9JBKY8Vsd0cg_C7atU2N-1" target="9JBKY8Vsd0cg_C7atU2N-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-1" value="Action Creator" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="110" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-2" value="Redux Cycle" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="450" y="250" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" parent="1" source="9JBKY8Vsd0cg_C7atU2N-3" target="9JBKY8Vsd0cg_C7atU2N-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-3" value="Action" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="316" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" parent="1" source="9JBKY8Vsd0cg_C7atU2N-5" target="9JBKY8Vsd0cg_C7atU2N-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-5" value="Dispatch" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="471" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeWidth=2;" parent="1" source="9JBKY8Vsd0cg_C7atU2N-8" target="9JBKY8Vsd0cg_C7atU2N-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-8" value="Reducers" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JBKY8Vsd0cg_C7atU2N-11" value="State" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="790" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sU6fqCLzuedO66m88KZ-" name="00 - Insurance Company">
+    <mxGraphModel dx="825" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-0" />
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-1" parent="1DQwcDOAzl8QoCeEJ_hZ-0" />
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-2" value="Let&#39;s Build an Insurance Company" style="whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1DQwcDOAzl8QoCeEJ_hZ-1" vertex="1">
+          <mxGeometry x="230" y="30" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-3" value="policy" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1DQwcDOAzl8QoCeEJ_hZ-1" vertex="1">
+          <mxGeometry x="230" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-5" value="Customers holds a &#39;policy&#39;, if bad stuff&lt;br&gt;happens to them then we pay them" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1DQwcDOAzl8QoCeEJ_hZ-1" vertex="1">
+          <mxGeometry x="370" y="120" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-7" value="claim" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1DQwcDOAzl8QoCeEJ_hZ-1" vertex="1">
+          <mxGeometry x="230" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-8" value="Customer had something bad happen&lt;br&gt;to them, we need to pay them" style="whiteSpace=wrap;html=1;fontSize=20;" parent="1DQwcDOAzl8QoCeEJ_hZ-1" vertex="1">
+          <mxGeometry x="370" y="180" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DQwcDOAzl8QoCeEJ_hZ-10" value="This are insurance&lt;br&gt;terms, not Redux terms" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" parent="1DQwcDOAzl8QoCeEJ_hZ-1" vertex="1">
+          <mxGeometry x="370" y="260" width="220" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
