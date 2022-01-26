@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T21:16:16.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IYfgp4WOFJz4eNxuX0g2" version="16.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-26T15:23:29.199Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="mMOta4ZRZvRJD9l-4skl" version="16.4.6" type="github" pages="9">
   <diagram id="LxZ13z829-u4o6Yn5Hbp" name="09 - Redux">
     <mxGraphModel dx="812" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,6 +353,91 @@
         </mxCell>
         <mxCell id="KhJKuGgGJOzpoG7MGn4h-13" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Sets up both the react and redux sides of the app&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;fontSize=15;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="KhJKuGgGJOzpoG7MGn4h-1">
           <mxGeometry x="420" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qILWb0CnwWEmx64o-BQH" name="07 - deps">
+    <mxGraphModel dx="683" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-0" />
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-1" parent="hhxkI-sn5iMXlHZhskFn-0" />
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hhxkI-sn5iMXlHZhskFn-1" source="hhxkI-sn5iMXlHZhskFn-2" target="hhxkI-sn5iMXlHZhskFn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-2" value="redux" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="210" y="150" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hhxkI-sn5iMXlHZhskFn-1" source="hhxkI-sn5iMXlHZhskFn-3" target="hhxkI-sn5iMXlHZhskFn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-3" value="react-redux" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="210" y="200" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hhxkI-sn5iMXlHZhskFn-1" source="hhxkI-sn5iMXlHZhskFn-4" target="hhxkI-sn5iMXlHZhskFn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-4" value="axios" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="210" y="250" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hhxkI-sn5iMXlHZhskFn-1" source="hhxkI-sn5iMXlHZhskFn-5" target="hhxkI-sn5iMXlHZhskFn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-5" value="redux-thunk" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="210" y="300" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-6" value="The redux library" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="450" y="150" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-7" value="Integration layer between react and redux" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="450" y="200" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-8" value="Helps us to make network requests" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="450" y="250" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hhxkI-sn5iMXlHZhskFn-9" value="Middleware to help us make network requests in a redux application" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="hhxkI-sn5iMXlHZhskFn-1">
+          <mxGeometry x="450" y="300" width="190" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Yx4t3WkjuWoKkEzqdt8Q" name="09 - loading">
+    <mxGraphModel dx="880" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="16lsrcQKGHap9VXV5wJ1-0" />
+        <mxCell id="16lsrcQKGHap9VXV5wJ1-1" parent="16lsrcQKGHap9VXV5wJ1-0" />
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;General Data Loading with Redux&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;fontStyle=0;strokeColor=none;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="345" y="19" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Components gets rendered on the screen&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="51" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Components &#39;componentDidMount&#39; lifecycle method gets called&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="102" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;We call action creator from &#39;componentDidMount&#39;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="153" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Action creator run code to make an API request&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="203" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;API responds with data&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="254" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Action creator returns an &#39;action&#39; with the fetched data on the &#39;payload&#39; property&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="305" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Some reducer sees the action, returns the data off the &#39;payload&#39;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="356" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Because we generated some new state object, redux/react-redux cause our React app to be rendered&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry x="280" y="407" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xtHaDRRZc2lY5JzJ1Cl-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="16lsrcQKGHap9VXV5wJ1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="266" y="50" as="sourcePoint" />
+            <mxPoint x="266" y="451.1111111111111" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
